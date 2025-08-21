@@ -1,0 +1,5 @@
+{
+  "runtime": "node",
+  "handler": "index.processMessage",
+  "description": "Simple Klingon-speaking agent powered by Claude LLM"
+}

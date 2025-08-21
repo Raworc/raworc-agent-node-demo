@@ -1,0 +1,16 @@
+{
+  "name": "raworc-agent-js-demo",
+  "version": "1.0.0",
+  "description": "Simple Klingon-speaking agent for Raworc powered by Claude",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0"
+  },
+  "keywords": ["raworc", "agent", "klingon", "claude", "language"],
+  "author": "Raworc",
+  "license": "MIT"
+}
